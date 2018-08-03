@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "GIS courses"
+permalink: /teaching/TA-Experience
+venue: "McGill University, Geography"
+date: 2014-2018
+location: "Montreal, Canada"
 ---
 
 
