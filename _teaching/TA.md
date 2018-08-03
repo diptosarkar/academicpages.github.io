@@ -7,12 +7,6 @@ venue: "McGill University, Geography"
 date: 2014-2018
 location: "Montreal, Canada"
 ---
-<style>
-  div.chart {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-</style>
-
 
 A collection of my teaching reviews as a TA in McGill University
 
