@@ -82,10 +82,10 @@ author:
   name             : "Dipto Sarkar"
   avatar           : "Photo.jpg"
   bio              : "GISc | SNA | Conservation"
-  location         : "New York"
-  employer         : "Faculty @ Geography | NUS"
+  location         : "Faculty @ Geography | NUS"
+  employer         : "Singapore"  #The order of location and employer are changed to reflect the rendering order in the webpage
   googlescholar    : "https://scholar.google.ca/citations?user=7cNHJ5EAAAAJ&hl=en"
-  email            :
+  email            : "dipto.sarkar@mail.mcgill.ca"
   uri              :
   bitbucket        :
   codepen          :
