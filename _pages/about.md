@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Curious about How? and Why?"
+title: "Dipto Sarkar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
