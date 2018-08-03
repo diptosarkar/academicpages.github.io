@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dipto's Website"
 title_separator          : "-"
 name                     : &name "Dipto Sarkar"
-description              : &description "personal description"
+description              : &description "GISc | SNA | Conservation"
 url                      : https://diptosarkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diptosarkar/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Dipto Sarkar"
-  avatar           : "profile.png"
+  avatar           : "Photo.jpg"
   bio              : "Faculty @ Georgraphy | NUS"
   location         : "Singapore"
   employer         :
@@ -90,7 +90,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/dipto_sarkar/"
   facebook         :
   foursquare       :
   github           : 
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/1374618/dotpi"
