@@ -16,7 +16,7 @@ The following is a collection of my teaching evaluations as Teaching Assistant f
 <script>
 var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
-    type: 'bar',
+    type: 'horizontalBar',
     data: {
         labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
         datasets: [{
