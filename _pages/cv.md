@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-###To be updated shortly
+### To be updated shortly
 
 <!--
 See syntax from https://github.com/academicpages/academicpages.github.io/blob/master/_pages/cv.md
