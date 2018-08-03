@@ -8,7 +8,7 @@ date: 2018-08-03
 location: "Montreal, Canada"
 ---
 
-The following is a collection of my teaching evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University.
+The following is a collection of my teaching evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University between the years 2014 to 2018.
 
 ## Socioeconomic Applications of GIS (Winter 2017)
 
@@ -22,12 +22,8 @@ var myChart = new Chart(ctx, {
         datasets: [{
             label: '# of Votes',
             data: [12, 19, 3, 5, 2],
-            backgroundColor: [
-                'rgba(200, 200, 200, 0.8)'
-            ],
-            borderColor: [
-                'rgba(200, 200, 200, 1)'
-            ],
+            backgroundColor: 'rgba(200, 200, 200, 0.8)',
+            borderColor: 'rgba(200, 200, 200, 1)',
             borderWidth: 1
         }]
     },
