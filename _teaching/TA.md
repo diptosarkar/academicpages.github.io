@@ -4,12 +4,13 @@ collection: teaching
 type: "GIS courses"
 permalink: /teaching/TA-Experience
 venue: "McGill University, Geography"
-date: 2014-2018
+date: 2018-08-03
 location: "Montreal, Canada"
 ---
 
+The following is a collection of my teaching evaluations as Teaching Assistant for GIS 
 
-## Socio eco
+## Socioeconomic Applications of GIS (Winter 2017)
 
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
