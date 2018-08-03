@@ -18,23 +18,14 @@ var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ["Red", "Blue", "Yellow", "Green", "Purple"],
+        labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
         datasets: [{
             label: '# of Votes',
-            data: [12, 19, 3, 5, 2],
+            data: [11, 0, 2, 0, 0],
             backgroundColor: 'rgba(200, 200, 200, 0.8)',
             borderColor: 'rgba(200, 200, 200, 1)',
             borderWidth: 1
         }]
-    },
-    options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
     }
 });
 </script>
