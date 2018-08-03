@@ -29,3 +29,12 @@ var myChart = new Chart(ctx, {
     }
 });
 </script>
+
+### Selected Comments
+    * Submission #1206684: Best TA I've ever had. Very approachable in class, with informative responses to questions, as well as willing to stay over his required hour for some labs if needed. He also has great information about GIS in the real world, as well as additional information not covered in the labs for GIS to help. A fair grader, and responds to emails relatively quickly with helpful answers to my questions. 5 stars *****
+    * Submission #1208645: Dipto is very helpful when it comes to troubleshooting issues within labs, he is approachable and gives good tips.
+    * Submission #1224693: He was an incredible asset in helping with the labs.
+    * Submission #1238104: Encouraging and helped with any questions raised during the labs
+    * Submission #1240042: Very helpful, patient and understanding during the labs
+    * Submission #1243352: Dipto was awesome! Super knowledgeable and helpful and nice.
+    * Submission #1244035: Was approachable during the labs and provided accessible answers.
