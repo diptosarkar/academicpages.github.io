@@ -43,16 +43,16 @@ var myChart = new Chart(ctx, {
 
 ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart3" width="400" height="400"></canvas>
+<canvas id="myChart5" width="200" height="200"></canvas>
 <script>
-var ctx = document.getElementById("myChart3").getContext('2d');
+var ctx = document.getElementById("myChart5").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: {
         labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
-        datasets: 
+        datasets: [{
             label: '# of Votes',
-            data: [13, 0, 0, 0, 0],
+            data: [11, 0, 2, 0, 0],
             backgroundColor: 'rgba(200, 200, 200, 0.8)',
             borderColor: 'rgba(200, 200, 200, 1)',
             borderWidth: 1
