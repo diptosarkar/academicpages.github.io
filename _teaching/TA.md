@@ -15,6 +15,36 @@ canvas.chrt{height:200; width:200}
 The following is a collection of my teaching evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University between the years 2014 to 2018.
 
 
+## Socioeconomic Applications of GIS (Winter 2018)
+
+<canvas id="myChart1" class="chrt"></canvas>
+<script>
+var ctx = document.getElementById("myChart1").getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'horizontalBar',
+    data: {
+        labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
+        datasets: [{
+            label: '# of Votes',
+            data: [14, 3, 1, 0, 0],
+            backgroundColor: 'rgba(200, 200, 200, 0.8)',
+            borderColor: 'rgba(200, 200, 200, 1)',
+            borderWidth: 1
+        }]
+    }
+});
+</script>
+
+### Student Comments
+* Submission #1467671: Very helpful during labs and answered questions well
+* Submission #1467690: He was very helpful when it came to doing the labs.
+* Submission #1467701: Dipto was incredibly helpful in the labs and always had such a positive attitude. He really helped me learn by taking the time to explain concepts clearly to me but did not simply give me the answer, he encouraged me to think things through on my own.
+* Submission #1467708: Very helpful and responsive.
+* Submission #1467710: Dipto is patient and explains topics perfectly. Thank you for being such a wonderful TA!
+* Submission #1470086: Dipto was super patient during lab sessions and was always accessible for questions and concerns!
+* Submission #1492274: Best TA at McGill.
+
+
 ## Socioeconomic Applications of GIS (Winter 2017)
 
 <canvas id="myChart2" class="chrt"></canvas>
