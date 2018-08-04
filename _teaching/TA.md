@@ -13,7 +13,7 @@ The following is a collection of my teaching evaluations as Teaching Assistant f
 
 ## Socioeconomic Applications of GIS (Winter 2017)
 
-<canvas id="myChart2" width="300" height="400"></canvas>
+<canvas id="myChart2" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById("myChart2").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -43,7 +43,7 @@ var myChart = new Chart(ctx, {
 
 ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart3" width="300" height="400"></canvas>
+<canvas id="myChart3" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById("myChart3").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -72,7 +72,7 @@ var myChart = new Chart(ctx, {
 
 ## Introductory Geo-Information Science (Fall 2014)
 
-<canvas id="myChart4" width="300" height="400"></canvas>
+<canvas id="myChart4" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById("myChart4").getContext('2d');
 var myChart = new Chart(ctx, {
