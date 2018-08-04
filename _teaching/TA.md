@@ -21,6 +21,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
         datasets: [{
+            label: '# of Votes',
             data: [11, 0, 2, 0, 0],
             backgroundColor: 'rgba(200, 200, 200, 0.8)',
             borderColor: 'rgba(200, 200, 200, 1)',
