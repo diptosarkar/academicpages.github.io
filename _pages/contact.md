@@ -7,8 +7,8 @@ author_profile: true
 
 ## Office
 <address>
-AS2, #04-05, /> 
-1 Arts Link, Kent Ridge,  />
+AS2, #04-05, <br/> 
+1 Arts Link, Kent Ridge,  <br/>
 Singapore 117570
 </address>
 
