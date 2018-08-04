@@ -12,7 +12,7 @@ The following is a collection of my teaching evaluations as Teaching Assistant f
 
 ## Socioeconomic Applications of GIS (Winter 2017)
 
-<canvas id="myChart1" width="400" height="300"></canvas>
+<canvas id="myChart1" width="400" height="200"></canvas>
 <script>
 var ctx = document.getElementById("myChart1").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -20,6 +20,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
         datasets: [{
+            label: ""# of Votes",
             data: [11, 0, 2, 0, 0],
             backgroundColor: 'rgba(200, 200, 200, 0.8)',
             borderColor: 'rgba(200, 200, 200, 1)',
@@ -37,19 +38,19 @@ var myChart = new Chart(ctx, {
 * Submission #1240042: Very helpful, patient and understanding during the labs
 * Submission #1243352: Dipto was awesome! Super knowledgeable and helpful and nice.
 * Submission #1244035: Was approachable during the labs and provided accessible answers.
-* Submission #1248895: Most helpful TA I've had throughout my labs
-    
-      
+* Submission #1248895: Most helpful TA I've had throughout my labs  
+     
  ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart2" width="400" height="300"></canvas>
+<canvas id="myChart2" width="400" height="200"></canvas>
 <script>
 var ctx = document.getElementById("myChart2").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: {
         labels: ["Excellent", "Very Good", "Good", "Fair", "Poor"],
-        datasets: [{
+        datasets: 
+            label: ""# of Votes",
             data: [13, 0, 0, 0, 0],
             backgroundColor: 'rgba(200, 200, 200, 0.8)',
             borderColor: 'rgba(200, 200, 200, 1)',
