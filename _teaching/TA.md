@@ -12,7 +12,7 @@ location: "Montreal, Canada"
 canvas.chrt{height:200; width:200}    
 </style>
 
-The following is a collection of my teaching evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University between the years 2014 to 2018.
+The following is a collection of all my evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University between the years 2014 to 2018.
 
 
 ## Socioeconomic Applications of GIS (Winter 2018)
@@ -180,7 +180,7 @@ var myChart = new Chart(ctx, {
 * Submission #1099749: Highly approachable and friendly. Very helpful and retains a balance between helping and letting you figure things out on your own ie doesn't spoon-feed, but guides you in the right direction. Is very knowledgeable about the subject.
 * Submission #1102586: Super nice, patient and helpful.
 * Submission #1116347: Describes things well enough, but I feel he lacks in explaining things clearly.
-* Submission #1116798: Dipto Sarkar was the best! Camille at times is difficult to work with, impatient
+* Submission #1116798: Dipto Sarkar was the best! <Name hidden> at times is difficult to work with, impatient
 * Submission #1117856: Dipto is caring, patient, and knowledgeable. Everyone in my lab was excited to have him as the TA for the day, as he was willing to help with problems and seemed happy to be there, which was a nice change from the 8:30am grogginess every other TA I've ever had at McGill has demonstrated. He even stayed overtime helping people, something that the other lab TA was not willing to do! Dipto is a great TA and I hope he TAs the GIS classes next semester.
 * Submission #1137180: Sarkar usually went above and beyond what he was told to do by the professors, including staying past his allotted time to help with questions. Sometimes it was frustrating as we could tell he had been told not to answer specific questions about the assignments, but overall he actually cared and wanted to help students learn.
 * Submission #1140361: Very willing to help
