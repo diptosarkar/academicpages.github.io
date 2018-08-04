@@ -8,12 +8,16 @@ date: 2018-08-03
 location: "Montreal, Canada"
 ---
 
+<style>
+canvas.chrt{height:200; width:200}    
+</style>
+
 The following is a collection of my teaching evaluations as Teaching Assistant for GIS courses in the Department of Geography at McGill University between the years 2014 to 2018.
 
 
 ## Socioeconomic Applications of GIS (Winter 2017)
 
-<canvas id="myChart2" width="200" height="200"></canvas>
+<canvas id="myChart2" class="chrt"></canvas>
 <script>
 var ctx = document.getElementById("myChart2").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -37,7 +41,7 @@ var myChart = new Chart(ctx, {
 
 ## Principles of the Geospatial Web (Winter 2016)
 
-<canvas id="myChart3" width="200" height="200"></canvas>
+<canvas id="myChart3" class="chrt"></canvas>
 <script>
 var ctx = document.getElementById("myChart3").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -67,7 +71,7 @@ var myChart = new Chart(ctx, {
  
 ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart3" width="200" height="200"></canvas>
+<canvas id="myChart3" class="chrt"></canvas>
 <script>
 var ctx = document.getElementById("myChart3").getContext('2d');
 var myChart = new Chart(ctx, {
