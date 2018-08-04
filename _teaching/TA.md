@@ -12,7 +12,7 @@ The following is a collection of my teaching evaluations as Teaching Assistant f
 
 ## Socioeconomic Applications of GIS (Winter 2017)
 
-<canvas id="myChart1" width="400" height="200"></canvas>
+<canvas id="myChart1" width="300" height="300"></canvas>
 <script>
 var ctx = document.getElementById("myChart1").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -39,10 +39,10 @@ var myChart = new Chart(ctx, {
 * Submission #1243352: Dipto was awesome! Super knowledgeable and helpful and nice.
 * Submission #1244035: Was approachable during the labs and provided accessible answers.
 * Submission #1248895: Most helpful TA I've had throughout my labs  
-     
- ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart2" width="400" height="200"></canvas>
+## Socioeconomic Applications of GIS (Winter 2015)
+
+<canvas id="myChart2" width="300" height="300"></canvas>
 <script>
 var ctx = document.getElementById("myChart2").getContext('2d');
 var myChart = new Chart(ctx, {
