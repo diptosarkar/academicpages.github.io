@@ -14,7 +14,7 @@ The following is a collection of my teaching evaluations as Teaching Assistant f
 
 <canvas id="myChart1" width="400" height="300"></canvas>
 <script>
-var ctx = document.getElementById("myChart").getContext('2d');
+var ctx = document.getElementById("myChart1").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: {
@@ -39,12 +39,12 @@ var myChart = new Chart(ctx, {
 * Submission #1244035: Was approachable during the labs and provided accessible answers.
 * Submission #1248895: Most helpful TA I've had throughout my labs
     
-    
+      
  ## Socioeconomic Applications of GIS (Winter 2015)
 
-<canvas id="myChart2" width="400" height="2300"></canvas>
+<canvas id="myChart2" width="400" height="300"></canvas>
 <script>
-var ctx = document.getElementById("myChart").getContext('2d');
+var ctx = document.getElementById("myChart2").getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: {
@@ -60,9 +60,9 @@ var myChart = new Chart(ctx, {
 </script>
 
 ### Student Comments
-    * Submission #1166354: Thank you to Dipto for being so helpful and accessible. The most useful and kind TA I've ever had at McGill.
-    * Submission #1182882: So helpful, such a nice guy.
-    * Submission #1184071: Very knowledgeable with Python. Answered to emails quickly when I needed help.
-    * Submission #1189234: Very helpful TA. Knew the material very well
-    * Submission #1189395: Great! Very encouraging!
-    * Submission #1189560: He was always available and very helpful in answering questions during labs and for the assignments.
+* Submission #1166354: Thank you to Dipto for being so helpful and accessible. The most useful and kind TA I've ever had at McGill.
+* Submission #1182882: So helpful, such a nice guy.
+* Submission #1184071: Very knowledgeable with Python. Answered to emails quickly when I needed help.
+* Submission #1189234: Very helpful TA. Knew the material very well
+* Submission #1189395: Great! Very encouraging!
+* Submission #1189560: He was always available and very helpful in answering questions during labs and for the assignments.
