@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assistant Experience"
+title: "Teaching Assistant Feedback"
 collection: teaching
 type: "GIS courses"
-permalink: /teaching/TA-Experience
+permalink: /teaching/TA-Feedback
 venue: "McGill University, Geography"
 date: 2018-08-03
 location: "Montreal, Canada"
