@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in the Department of Geography at National University Singapore. My research interests include GIScience, Social Network Analysis, and Biodiversity Conservation. I am enthusisastic about questions regarding how and why to teach, or more generally about the the role of education in society.
+I am currently a Lecturer in the Department of Geography at National University Singapore. My research interests include GIScience, Social Network Analysis, and Biodiversity Conservation. I am enthusiastic about questions regarding how and why to teach, or more generally about the the role of education in society.
 
 I have a PhD. in Geography form McGill University and a BSc. in Computer Science and MSc. in Geoinformatics ftom Calcutta University and Symbiosis International University respectively.
 
