@@ -12,6 +12,6 @@ AS2, #04-05, <br/>
 Singapore 117570
 </address>
 
-Phone: (65) xxx-xxx
+Phone: (+65) 660-17824
 
 E-mail: dipto.sarkar[at]mail[dot]mcgill[dot]ca
