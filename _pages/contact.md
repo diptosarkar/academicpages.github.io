@@ -14,4 +14,4 @@ Singapore 117570
 
 Phone: (+65) 660-17824
 
-E-mail: dipto.sarkar[at]nus[dot]edu[dot]sg
+E-mail: dipto.sarkar[at]carleton[dot]ca
