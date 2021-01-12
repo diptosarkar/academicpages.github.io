@@ -7,11 +7,12 @@ author_profile: true
 
 ## Office
 <address>
-AS2, #04-05, <br/> 
-1 Arts Link, Kent Ridge,  <br/>
-Singapore 117570
+B340B Loeb Building <br/> 
+1125 Colonel By Drive, <br/>
+Ottawa, Ontario, K1S 5B6 <br/>
+Canada
 </address>
 
-Phone: (+65) 660-17824
+Phone: (+1) xxx-xxxx
 
 E-mail: dipto.sarkar[at]carleton[dot]ca
