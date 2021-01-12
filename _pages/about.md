@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in the Department of Geography at National University Singapore. My research interests include GIScience, Social Network Analysis, and Biodiversity Conservation. I am enthusiastic about questions regarding how and why to teach, or more generally about the the role of education in society.
+I am currently an Assistand Professor the Department of Geography and Environmental Studies at Carleton University, Ottawa, Canada. My research interests include GIScience, Social Network Analysis, OpenStreetMap, and Biodiversity Conservation. I am also enthusiastic about questions regarding how and why to teach, or more generally about the the role of education in society.
 
-I have a PhD. in Geography form McGill University, BSc. in Computer Science, and MSc. in Geoinformatics ftom Calcutta University and Symbiosis International University respectively.
+Prior to joining Carleton I was a Lecturer at National University of Singapore and University College Cork, Ireland. I have a PhD. form McGill University, BSc. in Computer Science, and MSc. in Geoinformatics ftom Calcutta University and Symbiosis International University respectively.
 
 When I am not running between classes and office, I enjoy playing football (soccer!?).
 
