@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dipto's Website"
 title_separator          : "-"
 name                     : &name "Dipto Sarkar"
-description              : &description "GISc | SNA | Conservation"
+description              : &description "GISc | SNA | Conservation | OSM"
 url                      : https://diptosarkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diptosarkar/academicpages.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Dipto Sarkar"
   avatar           : "Photo.jpg"
-  bio              : "GISc | SNA | Conservation"
-  location         : "Faculty @ Geography | NUS"
-  employer         : "Singapore"  #The order of location and employer are changed to reflect the rendering order in the webpage
+  bio              : "GISc | SNA | Conservation | OSM"
+  location         : "Asst. Prof. @ Geography | Carleton"
+  employer         : "Canada"  #The order of location and employer are changed to reflect the rendering order in the webpage
   googlescholar    : "https://scholar.google.ca/citations?user=7cNHJ5EAAAAJ&hl=en"
-  email            : "dipto.sarkar@nus.edu.sg"
+  email            : "dipto.sarkar@carleton.ca"
   uri              :
   bitbucket        :
   codepen          :
